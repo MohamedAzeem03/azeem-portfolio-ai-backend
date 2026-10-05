@@ -1,0 +1,159 @@
+{
+  "personal": {
+    "name": "Mohamed Azeem",
+    "role": "Full-Stack Developer",
+    "headline": "Full-Stack Developer • Building Digital Experiences",
+    "introduction": "Passionate about building scalable, user-focused applications across mobile and backend platforms, with a focus on Flutter, Java, Spring Boot, and modern full-stack technologies."
+  },
+  "about": {
+    "aboutMe": [
+      "I am an MCA student at Francis Xavier Engineering College with a strong drive for software engineering. My work focuses on building robust cross-platform applications and secure, performant backends.",
+      "I believe in clean architecture, type-safety, and writing maintainable code that scales smoothly from development to production."
+    ],
+    "whatIDo": [
+      "Crafting cohesive digital systems using Flutter for unified client interfaces and Java with Spring Boot for enterprise-ready APIs.",
+      "Designing relational databases with PostgreSQL, implementing authentication layers with JWT and Spring Security, and exploring cloud-native paradigms."
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend / Mobile",
+      "technologies": ["Flutter", "Dart", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "category": "Backend",
+      "technologies": ["Java", "Spring Boot", "Spring Security", "JWT"]
+    },
+    {
+      "category": "Database",
+      "technologies": ["PostgreSQL", "SQL"]
+    },
+    {
+      "category": "AI & Integration",
+      "technologies": ["AI APIs / LLM Integration", "Firebase"]
+    },
+    {
+      "category": "DevOps & Tools",
+      "technologies": ["Git", "GitHub", "Docker", "Maven", "Postman"]
+    },
+    {
+      "category": "Programming Languages",
+      "technologies": ["Python", "C/C++"]
+    },
+    {
+      "category": "Cloud",
+      "technologies": ["AWS"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "DEVORA",
+      "type": "PERSONAL PROJECT",
+      "description": "Developed a mobile app for creating daily tasks and challenges, setting deadlines, sharing completion proof, and tracking points and streaks.",
+      "challenge": "Developers need a structured way to create, participate in, and verify challenges while tracking their progress.",
+      "solution": "Built a mobile application where users can create challenges, set deadlines, accept challenges, submit solutions with proof, and verify completed challenges.",
+      "roles": [
+        "Designed and developed the mobile application",
+        "Implemented the challenge creation and participation workflow",
+        "Developed frontend-backend communication",
+        "Worked on the solution and proof submission flow",
+        "Implemented challenge verification and progress tracking",
+        "Worked on notifications"
+      ],
+      "keyOutcomes": [
+        "Challenge creation & acceptance",
+        "Deadline-based tracking",
+        "Proof submission system",
+        "Automated challenge verification",
+        "Points and streaks engine",
+        "Push notifications"
+      ],
+      "technologies": ["Flutter", "Dart", "Java", "Spring Boot", "REST APIs", "Firebase", "Git", "GitHub"]
+    },
+    {
+      "name": "YOUR FRIENDEEY",
+      "type": "PERSONAL PROJECT",
+      "description": "Developed a web app that provides AI-based advice based on the user's mood, with React frontend, Django backend, and AI API integration.",
+      "challenge": "Users may need simple guidance based on their current mood but may not know where to find personalized advice.",
+      "solution": "Built an AI-powered web application that provides advice based on the user's selected mood.",
+      "roles": [
+        "Developed the React frontend",
+        "Built backend functionality using Django",
+        "Integrated the AI API",
+        "Connected frontend and backend",
+        "Designed the user interaction flow"
+      ],
+      "keyOutcomes": [
+        "Mood detection & analysis",
+        "AI advice generation",
+        "User authentication",
+        "Frontend & backend integration",
+        "Database management"
+      ],
+      "technologies": ["React", "Django", "Python", "AI API"]
+    },
+    {
+      "name": "AZM QUICKBITE",
+      "type": "INTERNSHIP PROJECT",
+      "description": "Developed a food ordering web app with user login, product management, cart, order processing, and an interactive QuickBite Assistant.",
+      "challenge": "Users need a simple way to browse food items, manage their cart, and place orders through a single application.",
+      "solution": "Built a food ordering web application with user authentication, product management, cart functionality, order processing, and an AI-powered QuickBite Assistant.",
+      "roles": [
+        "Developed the web application",
+        "Implemented user login and authentication",
+        "Built product management functionality",
+        "Implemented cart functionality",
+        "Implemented order processing",
+        "Integrated the QuickBite Assistant"
+      ],
+      "keyOutcomes": [
+        "Food ordering workflow",
+        "User authentication & profiles",
+        "Inventory management",
+        "Real-time shopping cart",
+        "Order processing engine",
+        "AI chatbot integration"
+      ],
+      "technologies": ["Django", "Python", "HTML", "CSS", "JavaScript", "Bootstrap"]
+    }
+  ],
+  "experience": [
+    {
+      "year": "2026",
+      "type": "Internship",
+      "role": "Python Full Stack Intern",
+      "company": "Alric Infotech Pvt. Ltd., Trivandrum",
+      "description": "Practical engagement in Python full-stack web development, implementing backend logic, connecting endpoints, and developing modular dynamic web applications."
+    },
+    {
+      "year": "2025",
+      "type": "Internship",
+      "role": "Networking & Security Intern",
+      "company": "PROMPT INFOTECH",
+      "description": "Gained essential foundational knowledge in computer networking, TCP/IP protocols, network hardware configurations, and core digital security practices."
+    }
+  ],
+  "education": [
+    {
+      "year": "2025 - 2027",
+      "type": "Postgraduate",
+      "degree": "Master of Computer Applications (MCA)",
+      "institution": "Francis Xavier Engineering College",
+      "details": "CGPA: 10/10 (upto 1st semester)"
+    },
+    {
+      "year": "2022 - 2025",
+      "type": "Undergraduate",
+      "degree": "Bachelor of Science (B.Sc.) in Computer Science",
+      "institution": "Sri Ram Nallamani Yadava College of Arts & Science",
+      "details": "CGPA: 8.6/10"
+    }
+  ],
+  "achievements": [],
+  "contact": {
+    "email": "mohdazm2005@gmail.com",
+    "phone": "+91 9080760466",
+    "linkedin": "https://www.linkedin.com/in/mohdazeem03/",
+    "github": "https://github.com/MohamedAzeem03"
+  }
+}
